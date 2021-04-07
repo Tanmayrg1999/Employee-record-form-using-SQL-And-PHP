@@ -9,5 +9,6 @@ The table is created in phpMyAdmin in a databse named user_data an table named a
 
 ## Snapshots
 ![record](https://user-images.githubusercontent.com/53641559/113853958-ef09af80-97bb-11eb-9083-80b810b2f109.png)
+
 ![database](https://user-images.githubusercontent.com/53641559/113853954-edd88280-97bb-11eb-9105-b7a3a4d85c0d.png)
 
