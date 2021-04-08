@@ -18,10 +18,39 @@ HTML is the standard markup language for Web pages.
 With HTML you can create your own Website.
 The HyperText Markup Language, or HTML(HyperText Markup Language) is the standard markup language for documents designed to be displayed in a web browser.
 
+BOOTSTRAP:
+Bootstrap 4 is the newest version of Bootstrap, which is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
+Bootstrap 4 is completely free to download and use!
+
+
 MYSQL:
 MySQL is a database system used on the web. It is a database system that runs on a server. It is ideal for both small and large applications. MySQL is very fast, reliable, and easy to use.
+
+## Steps:
+
+1.Firstly I designed a web page layout in sublime text editor usinh php in Index.php. This file had a Employee record as its label.
+
+2.Then I created a form using php and inside div tags I added Employee attributes include his Id,first-name,last-name,city and his Date of Birth. All of these were given a input type as number except for the date of birth which was of date type.
+
+3.Finally a button for submitting user entered data was placed on the page (namely Submit Button).
+
+4.Nextly we created a SQL Database in phpmyadmin which can be accesed through http://localhost/phpmyadmin.
+
+5.For working with phpmyadmin we need to start a SQL server from XAMPP control panel and also the Apache server. Its job is to serve websites on the internet.
+
+6.Now we need to create a database in phpmyadmin and create a table inside this database with attributes mentioned in our PHP form. SQL is a database language, it is used for database creation, deletion, fetching rows, and modifying rows, etc.
+
+7.In my case I have designed a database named 'user_data' inside it I created a table named 'employee_record' with employee_id as the primary key ,since it must be unique to each and every employee.The PRIMARY KEY constraint uniquely identifies each record in a table. Primary keys must contain UNIQUE values, and cannot contain NULL values.
+
+8.After succsefully creating a database and a server we need to design our userinfo.php page where we will do all our connections with the server i.e. backend and frontend connections.Here first I would check wheather or not I am connected to my database and echo the corresponding response. Echo is a statement, which is used to display the output.
+
+9.Nextly i designed variables in this page to store all the five attribute vaues of employee as entered by user and collect the response from the index page. 
+
+10.Nextly we fired a query which would succesfully insert the user data in our table employee_record.The SQL INSERT INTO Statement is used to add new rows of data to a table in the database.
+
+11.Now on refreshing the table we can easily find the record inserted succesfully with all the constraint in mind.
+
 ## Snapshots
 ![record](https://user-images.githubusercontent.com/53641559/113853958-ef09af80-97bb-11eb-9083-80b810b2f109.png)
 
 ![database](https://user-images.githubusercontent.com/53641559/113853954-edd88280-97bb-11eb-9105-b7a3a4d85c0d.png)
-
