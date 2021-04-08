@@ -11,19 +11,23 @@ XAMPP is a completely free, easy to install Apache distribution containing Maria
 Sublime text was the editor that was used to write the code.Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.It can be easily downloaded from https://www.sublimetext.com/.
 
 ## Language used:
-PHP:PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.
+PHP:
+
+PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.
 
 HTML:
-HTML is the standard markup language for Web pages.
-With HTML you can create your own Website.
+
+HTML is the standard markup language for Web pages.With HTML you can create your own Website.
 The HyperText Markup Language, or HTML(HyperText Markup Language) is the standard markup language for documents designed to be displayed in a web browser.
 
 BOOTSTRAP:
+
 Bootstrap 4 is the newest version of Bootstrap, which is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
 Bootstrap 4 is completely free to download and use!
 
 
 MYSQL:
+
 MySQL is a database system used on the web. It is a database system that runs on a server. It is ideal for both small and large applications. MySQL is very fast, reliable, and easy to use.
 
 ## Steps:
